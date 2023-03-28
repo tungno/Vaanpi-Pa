@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T20:39:04.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TfckfpXRUZurZd1qUiJ9" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-28T07:25:01.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RHRf1Sxb4mUk51NDKAJD" version="21.1.1" type="github" pages="2">
   <diagram name="Page-1" id="UHZl944SAC1hnp8KD7Ga">
     <mxGraphModel dx="1194" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,57 +233,87 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f1XwY0tl_wbji9oxtLj5" name="Page-2">
-    <mxGraphModel dx="823" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="57cUEJWc8D8_7B6fTUJE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2FFC4;" vertex="1" parent="1">
+        <mxCell id="57cUEJWc8D8_7B6fTUJE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2FFC4;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="760" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="57cUEJWc8D8_7B6fTUJE-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lagdelt-arkitekturskisse for KID-applikasjon&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="57cUEJWc8D8_7B6fTUJE-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lagdelt-arkitekturskisse for KID-applikasjon&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="10" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="57cUEJWc8D8_7B6fTUJE-3" value="Presentasjon layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="60" width="110" height="30" as="geometry" />
+        <mxCell id="57cUEJWc8D8_7B6fTUJE-3" value="Presentasjon &lt;br&gt;layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="65" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-1" value="Datamaskin eller mobil&amp;nbsp; for brukere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X94D4HNnDkijsbwM832q-1" value="Datamaskin eller mobil&amp;nbsp; for brukere" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="60" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="X94D4HNnDkijsbwM832q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="760" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-3" value="Authentication layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="155" width="110" height="30" as="geometry" />
+        <mxCell id="X94D4HNnDkijsbwM832q-3" value="Authentication&lt;br&gt;layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="155" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-4" value="Fingeravtrykk og ansikts-ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X94D4HNnDkijsbwM832q-4" value="Fingeravtrykk og ansikts-ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="X94D4HNnDkijsbwM832q-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="230" width="760" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-6" value="Applikasjon layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="45" y="245" width="95" height="30" as="geometry" />
+        <mxCell id="X94D4HNnDkijsbwM832q-6" value="Applikasjon &lt;br&gt;layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="245" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X94D4HNnDkijsbwM832q-7" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X94D4HNnDkijsbwM832q-7" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIGjZFBc8KMpyTjTBOtH-1" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIGjZFBc8KMpyTjTBOtH-1" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIGjZFBc8KMpyTjTBOtH-2" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIGjZFBc8KMpyTjTBOtH-2" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIGjZFBc8KMpyTjTBOtH-3" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIGjZFBc8KMpyTjTBOtH-3" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIGjZFBc8KMpyTjTBOtH-4" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIGjZFBc8KMpyTjTBOtH-4" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIGjZFBc8KMpyTjTBOtH-5" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIGjZFBc8KMpyTjTBOtH-5" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JIGjZFBc8KMpyTjTBOtH-6" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JIGjZFBc8KMpyTjTBOtH-6" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-4" value="Database layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="35" y="320" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-6" value="Domene&lt;br&gt;layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="335" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-7" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-8" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-9" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-10" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-11" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MJt6-787yEX5XD4-TR_v-13" value="user&amp;nbsp;&lt;br&gt;registrasjon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
